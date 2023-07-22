@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "AWS Helper: validate IAM policy",
+    "command": "aws_helper_validate_iam"
+  }
+]
