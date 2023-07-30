@@ -23,7 +23,10 @@ No default keybinding is provided. Use like below as necessary
 
 ### Install with Package Control
 Todo
-
+### Manual
+- Open the Sublime Text Packages folder (see Sublime Text > Preferences > Browse Packages...)
+- Clone this repo
+- Restart Sublime Text
 ### Setup
 It is required to configure AWS with access key ID and secret to use this plugin.
 
