@@ -1,5 +1,5 @@
 # sublime-aws-helper
-`AWS helper` is a Sublime Text plugin to validate the `IAM policy` json for errors. 
+`AWS helper` is a [Sublime Text](https://www.sublimetext.com/) plugin to validate the `IAM policy` json for errors. 
 Read more at [Medium - AWS Helper: Sublime Text plugin](https://medium.com/@cibin.mathew/aws-helper-sublime-text-plugin-7e5f77fee7d4)
 
 
