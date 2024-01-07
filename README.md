@@ -7,7 +7,7 @@ Read more at [Medium - AWS Helper: Sublime Text plugin](https://medium.com/@cibi
 
 
 ## Features
-- `aws_helper_validate_iam` :  selected text is validated for a valid iam policy json
+- `aws_helper_validate_iam` :  selected text is validated for a valid iam policy json. [access_analyzer pricing](https://aws.amazon.com/iam/access-analyzer/pricing/)
 
 ## How to Use
 
