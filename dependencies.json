@@ -3,7 +3,8 @@
 
     "*": {
             "*": [
-                "pyyaml"
+                "pyyaml",
+                "boto3"
             ]
         }
 }
