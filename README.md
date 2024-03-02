@@ -22,7 +22,8 @@ No default keybinding is provided. Use like below as necessary
 ## How to Install
 
 ### Install with Package Control
-Todo
+To Install [AWS Helper](https://packagecontrol.io/packages/AWS%20Helper) via [Package Control](https://packagecontrol.io/). 
+- Search for package: `AWS Helper`
 ### Manual
 - Open the Sublime Text Packages folder (see Sublime Text > Preferences > Browse Packages...)
 - Clone this repo
