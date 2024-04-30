@@ -7,11 +7,13 @@ Read more at [Medium - AWS Helper: Sublime Text plugin](https://medium.com/@cibi
 
 
 ## Features
-- `aws_helper_validate_iam` :  selected text is validated for a valid iam policy json. Validtion is done by AWS access-analyzer [ValidatePolicy](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_ValidatePolicy.html) API. [[pricing](https://aws.amazon.com/iam/access-analyzer/pricing/)]
+- `AWS Helper: validate IAM policy` (`aws_helper_validate_iam`) :  selected text is validated for a valid iam policy json. Validtion is done by AWS access-analyzer [ValidatePolicy](https://docs.aws.amazon.com/access-analyzer/latest/APIReference/API_ValidatePolicy.html) API. [[pricing](https://aws.amazon.com/iam/access-analyzer/pricing/)]
+- `AWS Helper: open arn in console` (`aws_helper_open_arn_in_console`) : For supported aws services, if the selected text matches an arn, the corresponding aws console url for the same is opened in default browser.
+
 
 ## How to Use
 
-From Command palette, type `AWS Helper: validate IAM policy`
+From Command palette, type the command, eg: `AWS Helper: validate IAM policy`
 
 No default keybinding is provided. Use like below as necessary
 ```
@@ -35,7 +37,7 @@ Run `aws configure` to set up your [credentials](https://boto3.amazonaws.com/v1/
 They will be stored in` ~/.aws/credentials`.
 
 ### TODOs
-- [ ] Submit to package control channel
+- [x] Submit to package control channel
 - [ ] Handle network failure from freezing
 
 ## FAQ

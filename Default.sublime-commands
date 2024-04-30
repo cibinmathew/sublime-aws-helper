@@ -2,5 +2,9 @@
   {
     "caption": "AWS Helper: validate IAM policy",
     "command": "aws_helper_validate_iam"
+  },
+  {
+    "caption": "AWS Helper: open arn in console",
+    "command": "aws_helper_open_arn_in_console"
   }
 ]
